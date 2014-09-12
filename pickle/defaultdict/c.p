@@ -1,0 +1,13 @@
+ccopy_reg
+_reconstructor
+p0
+(c__main__
+C
+p1
+c__builtin__
+dict
+p2
+(dp3
+tp4
+Rp5
+.
